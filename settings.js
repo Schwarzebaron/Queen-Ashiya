@@ -39,13 +39,13 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Baron']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '4915678114564'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Baron'
 
 global.botname = '💗Queen Ashiya🧚'
 
@@ -55,9 +55,9 @@ global.ig = 'https://github.com/BlackPant'
 
 global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
 
-global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
+global.sc = 'https://github.com/Schwarzebaron/Queen-Ashiya'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://youtube.com/c/schwarzebaron'
 
 global.packname = '💗Queen Ashiya🧚'
 
